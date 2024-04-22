@@ -1,5 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
+## Developed by: Vinush.cv
+## Reg no: 212222230176
+
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -65,4 +68,3 @@ Thus,linear and joint interpolation of industrial manipulator is executed with a
 
 
 
-### Results:  
